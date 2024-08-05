@@ -1,4 +1,4 @@
-# Vulnerable Web Application Lab
+# Web Vulnerability Home Lab
 
 ## Introduction
 
